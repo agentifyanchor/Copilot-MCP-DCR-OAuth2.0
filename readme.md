@@ -4,6 +4,11 @@ This is a production-ready Model Context Protocol (MCP) server built with TypeSc
 
 It solves the "Dynamic Redirect URI" problem in Power Platform by automatically updating its own Azure App Registration using the Microsoft Graph API.
 
+## 🎥 Demo
+![Demo](MCP-DCR.gif)
+
+
+
 ## 🚀 Quick Start
 
 ### 1. Installation
