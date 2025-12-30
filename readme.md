@@ -47,7 +47,7 @@ npm start
 Want to know how we accomplished automated Dynamic Client Registration (DCR) and granular SharePoint discovery? 
 
 Check out our detailed blog post: 
-👉 **[Building a Production-Ready MCP Server for Copilot](./MCP_DCR_BLOG.md)**
+👉 **[Building a Production-Ready MCP Server for Copilot](https://agentifyanchor.github.io/blog/posts/2025-12-30-building-a-production-ready-mcp-server-for-copilot-with-dynamic-client-registration/)**
 
 ## 🛠 Features
 *   **Automated DCR**: Automatically adds Power Platform Redirect URIs to Azure AD.
